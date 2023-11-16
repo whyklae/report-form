@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Report Form</string>
+
+    <string name="program_name">Report Form</string>
+    <string name="program_description">Save and show data after submitted the form</string>
+
+    <string name="report_titlebar">Data Received</string>
+    <string name="report_description">Show data that have been submitted</string>
+
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="age">Age</string>
+
+    <string name="saveButton">SAVE AND SHOW REPORT</string>
+
+    <string name="copyright">Inafianti Klaristania Rilano</string>
+    <string name="title_activity_second">Data Received</string>
+
+    <string name="answer_name">Name: %1$s</string>
+    <string name="answer_surname">Surname: %1$s</string>
+    <string name="answer_age">Age: %1$s</string>
+</resources>
